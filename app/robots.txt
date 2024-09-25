@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://indonesiacolmek.pages.dev/sitemap.xml
